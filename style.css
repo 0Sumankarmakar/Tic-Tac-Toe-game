@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Segoe UI', sans-serif;
-  background: linear-gradient(135deg,black);
+  background: linear-gradient(135deg,rgba(170, 224, 240, 0.788));
   color: rgb(76, 0, 255);
   display: flex;
   justify-content: center;
