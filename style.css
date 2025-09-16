@@ -9,6 +9,8 @@ img{
 body {
   font-family: 'Segoe UI', sans-serif;
   background-image:url(backgroundimage.jpg);
+  background-image-height:100vh;
+  background-image-width:100vw;
   color: rgb(76, 0, 255);
   display: flex;
   justify-content: center;
@@ -81,3 +83,4 @@ h1 {
 .reset-btn:hover {
   background: #e73370;
 }
+
